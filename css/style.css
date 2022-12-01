@@ -1,0 +1,19 @@
+body::before{
+    display: block;
+    content: '';
+    height: 60px;
+}
+
+@media (min-width: 768px){
+    .news-input{
+        width: 50%;
+    }
+}
+
+.temp{
+    height: 168px;
+}
+.temp--sale{
+    height: 500px;
+}
+
